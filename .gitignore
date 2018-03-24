@@ -1,0 +1,14 @@
+dist/*
+.sonar/*
+.idea
+*.iml
+node_modules
+npm-debug.log
+
+# sonarqube
+.scannerwork/*
+
+coverage/*
+.nyc_output/*
+
+yarn-error.log
