@@ -6,16 +6,19 @@
   "private": true,
   "dependencies": {
     "material-ui": "0.20.0",
+    "prop-types": "15.6.1",
     "ramda": "0.25.0",
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-redux": "5.0.7",
-    "redux": "3.7.2"
+    "redux": "3.7.2",
+    "typesafe-actions": "1.1.2"
   },
   "devDependencies": {
-    "@types/ramda": "0.25.20",
     "@types/material-ui": "0.20.0",
     "@types/node": "8.10.0",
+    "@types/prop-types": "15.5.2",
+    "@types/ramda": "types/npm-ramda#dist",
     "@types/react": "16.0.40",
     "@types/react-dom": "16.0.4",
     "@types/react-hot-loader": "3.0.6",

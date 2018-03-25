@@ -8,7 +8,7 @@ import {
   TableRowColumn,
 } from 'material-ui/Table'
 import {User} from "./user"
-import {map} from "ramda"
+import * as map from "ramda/src/map"
 
 interface UserProps {
   users: Array<User>

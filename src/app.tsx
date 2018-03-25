@@ -4,7 +4,6 @@ import getMuiTheme from 'material-ui/styles/getMuiTheme'
 import muiTheme from 'material-ui/styles/baseThemes/lightBaseTheme'
 import {Provider, Store} from 'react-redux'
 import {ApplicationState} from "./core/store/combined"
-import {config} from "./config"
 import {Users} from "./users/users"
 import {Status} from "./users/user"
 
